@@ -5,7 +5,6 @@
 Command : nano role-definition.yaml<br/>
 
 Edit this into YAML file: <br/>
-
 title: "Enter Your_Service_Account"   <br/>
 description: "Permissions"<br/>
 stage: "ALPHA"<br/>
