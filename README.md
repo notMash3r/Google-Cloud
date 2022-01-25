@@ -11,11 +11,11 @@ title: "Enter Your_Service_Account"
 description: "Permissions"
 stage: "ALPHA"
 includedPermissions:
-- storage.buckets.get
-- storage.objects.get
-- storage.objects.list
-- storage.objects.update
-- storage.objects.create
+&mdash;. storage.buckets.get
+&mdash;. storage.objects.get
+&mdash;. storage.objects.list
+&mdash;. storage.objects.update
+&mdash;. storage.objects.create
 
 
 
