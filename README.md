@@ -7,15 +7,15 @@ nano role-definition.yaml
 
 Edit this into YAML file: <br/>
 
-title: "Enter Your_Service_Account"   
-description: "Permissions"
-stage: "ALPHA"
-includedPermissions:
-&mdash;. storage.buckets.get
-&mdash;. storage.objects.get
-&mdash;. storage.objects.list
-&mdash;. storage.objects.update
-&mdash;. storage.objects.create
+title: "Enter Your_Service_Account"   <br/>
+description: "Permissions"<br/>
+stage: "ALPHA"<br/>
+includedPermissions: <br/>
+&ndash; storage.buckets.get<br/>
+&ndash; storage.objects.get<br/>
+&ndash; storage.objects.list<br/>
+&ndash; storage.objects.update<br/>
+&ndash; storage.objects.create<br/>
 
 
 
