@@ -2,10 +2,12 @@
 
 <br/><br/>
 ---Creating a Security Custom Role---
+<br/>
 nano role-definition.yaml
 
-Edit this into YAML file: 
-title: "Enter Your_Service_Account"   // Enter your service account here
+Edit this into YAML file: <br/>
+
+title: "Enter Your_Service_Account"   
 description: "Permissions"
 stage: "ALPHA"
 includedPermissions:
